@@ -1,4 +1,5 @@
 # H1
 ## H2
 ### H3
-I created 3 headings
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
